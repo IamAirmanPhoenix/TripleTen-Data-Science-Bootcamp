@@ -1,9 +1,12 @@
-# Sprint 7: 
-
+# Sprint 7: Data collection and storage (SQL)
+This sprint is focused on using SQL language and how to make queries through various datasets on a database.
 
 ## Sprint contents
-* Documentation search and analysis.
-* Python in depth (useful strategies while coding).
+* Introduction to SQL.
+* Using online sources to get data.
+* SQL to work with data.
+* Advanced SQL.
+* Relations among tables.
 
 ## Files
 * Notebook with the project development.
