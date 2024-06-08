@@ -1,4 +1,4 @@
-# Sprint1: Basic Python
+# Sprint 1: Basic Python
 This sprints consist on learning the basics of Python language.
 
 ## Sprint content:
