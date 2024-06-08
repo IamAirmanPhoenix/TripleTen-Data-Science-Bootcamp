@@ -1,11 +1,12 @@
 # TripleTen-Data-Science-Bootcamp
-This repository has all TripleTen's Data Science bootcamp sprints final projects. 
+This repository has all TripleTen's Data Science bootcamp sprints final projects ([Tripleten's website](https://tripleten.com/)). 
 
 ## Structure
-Each of the folders on this repository include one of the sprints of the bootcamp, and each of the folders contains the following elements:
+Each of the folders on this repository include one of the sprints of the bootcamp, and each of the folders contains a number of the following elements:
 * README file.
-* datasets folder (if apply).
+* Datasets folder.
 * Jupyter notebook with the project development.
+* Other files depending of the sprint content.
 
 ## Sprint
 
