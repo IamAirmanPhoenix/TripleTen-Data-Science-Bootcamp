@@ -3,4 +3,4 @@ This repository has the project of each sprint of TripleTen's Data Science bootc
 
 ## Index
 
-1.- [Basic Python] (Sprint1_Project)
+1.- [Basic Python](Sprint1_Project)
