@@ -15,5 +15,8 @@ Render URL: https://sprint5-project-hv4v.onrender.com
 * Individual development environment.
 
 ## Files:
-* Notebook file with the project development.
-* Datasets folder.
+* Notebook folder with the project development.
+* Streamlit folder with the server configuration file.
+* App file with the application.
+* Requirements files with the modules needed.
+* Dataset with our information.
