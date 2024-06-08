@@ -1,4 +1,4 @@
-# TripleTen-Data-Science-Bootcamp
+# TripleTen Data Science Bootcamp
 This repository has all TripleTen's Data Science bootcamp sprints final projects ([Tripleten's website](https://tripleten.com/)). 
 
 ## Structure
