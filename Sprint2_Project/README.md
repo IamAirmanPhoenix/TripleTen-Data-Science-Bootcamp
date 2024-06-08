@@ -9,3 +9,4 @@ This sprints continues the basics of Python.
 
 ## Files:
 * Notebook file with the project development.
+* Datasets folder.
