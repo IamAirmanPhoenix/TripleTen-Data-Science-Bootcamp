@@ -10,6 +10,7 @@ This repository has the project of each sprint of TripleTen's Data Science bootc
 5. [Software development tools](Sprint5_Project)
 6. [Integrated project 1](Sprint6_Project)
 7. [Data collection and storage (SQL)](Sprint7_Project)
+
 To be continued...
 8. [Machine Learning Introduction](Sprint8_Project)
 9. [Supervised Learning](Sprint9_Project)
