@@ -17,11 +17,11 @@ Each of the folders on this repository include one of the sprints of the bootcam
 5. [Software development tools](Sprint5_Project)
 6. [Integrated project 1](Sprint6_Project)
 7. [Data collection and storage (SQL)](Sprint7_Project)
-
-To be continued...
 8. [Machine Learning Introduction](Sprint8_Project)
 9. [Supervised Learning](Sprint9_Project)
 10. [Machine Learning in business](Sprint10_Project)
+
+To be continued...
 11. [Linear Algebra](Sprint11_Project)
 12. [Numeric Methods](Sprint12_Project)
 13. [Temporal Series](Sprint13_Project)
