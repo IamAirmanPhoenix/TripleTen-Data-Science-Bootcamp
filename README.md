@@ -20,12 +20,12 @@ Each of the folders on this repository include one of the sprints of the bootcam
 8. [Machine Learning Introduction](Sprint8_Project)
 9. [Supervised Learning](Sprint9_Project)
 10. [Machine Learning in business](Sprint10_Project)
-
-To be continued...
 11. [Linear Algebra](Sprint11_Project)
 12. [Numeric Methods](Sprint12_Project)
 13. [Temporal Series](Sprint13_Project)
 14. [Machine Learning on texts](Sprint14_Project)
+
+To be continued...
 15. [Artificial Vision](Sprint15_Project)
 16. [Unsupervised Learning](Sprint16_Project)
 17. [Final Project](Sprint17_Project)
