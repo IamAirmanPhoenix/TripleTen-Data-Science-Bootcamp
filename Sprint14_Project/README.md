@@ -1,4 +1,4 @@
-# Sprint 13: Time Series
+# Sprint 14: Artificial Vision
 This sprint covers topics about NLP (natural language processing). Tokenizing, lemmatization and vectorize are some of the topics that were covered in this sprint.
 
 ## Sprint contents
